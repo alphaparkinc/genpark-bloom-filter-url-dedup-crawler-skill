@@ -1,0 +1,9 @@
+{
+  "name": "genpark-bloom-filter-url-dedup-crawler-skill",
+  "version": "1.0.1",
+  "description": "In-memory Bloom filter for URL and document hash deduplication preventing redundant web crawler ingestion",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "homepage": "https://www.genpark.ai",
+  "entrypoint": "mcp_server.py"
+}
